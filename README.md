@@ -12,5 +12,5 @@ My first repository
 - Diamond Castle
 
 ### Resons Why I Love Them
-* I love the plot of the stories, the animation, and the emotions that they made me feel.*
-* And for the movies, they always bringing me back to my childhood every time I watch them.*
+**I love the plot of the stories, the animation, and the emotions that they made me feel**
+**And for the movies, they always bringing me back to my childhood every time I watch them**
